@@ -1,0 +1,16 @@
+.env
+data
+eval
+.venv
+__pycache__
+*.pyc
+.DS_Store
+.idea
+.vscode
+model
+
+human_eval/study1/Copy of Understanding AI Summary Explanations_ A Brief User Study (Responses).xlsx
+human_eval/study1/outputs
+
+human_eval/study2/Copy of Evidence Path Sufficiency Evaluation (Responses).xlsx
+human_eval/study2/outputs
