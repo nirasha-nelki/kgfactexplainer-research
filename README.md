@@ -6,8 +6,6 @@ This repository contains the implementation, data-processing scripts, evaluation
 
 The project introduces **KGFactExplainer**, a post-hoc, source-grounded explanation framework for identifying and explaining why specific facts are included in an abstractive summary. The approach represents source documents as knowledge graphs and generates evidence paths connecting summary facts to information in the source document.
 
-The repository accompanies the paper accepted for **ICTer 2026**.
-
 ---
 
 ## Overview
