@@ -14,3 +14,15 @@ human_eval/study1/outputs
 
 human_eval/study2/Copy of Evidence Path Sufficiency Evaluation (Responses).xlsx
 human_eval/study2/outputs
+
+data_prep/file_merge.ipynb
+data_prep/generating_triplets_gpt_oss.ipynb
+
+fact_check/
+
+analysis/
+
+llm_as_a_judge/
+
+pegasgs.ipynb
+summcoz.ipynb
